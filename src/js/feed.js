@@ -5,6 +5,7 @@ var closeCreatePostModalButton = document.querySelector(
 );
 
 function openCreatePostModal() {
+  alert("aaa");
   createPostArea.style.display = "block";
   if (deferredPrompt) {
     deferredPrompt.prompt();
