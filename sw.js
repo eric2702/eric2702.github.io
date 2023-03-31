@@ -34,6 +34,7 @@ var cache_src = [
   "/src/images/footer-background.png",
   "/src/images/header-bg.jpg",
   "/src/images/logo.png",
+  "/sw.js",
   "/src/images/photo-wide.jpg",
   "/src/images/photo.jpg",
   "/src/images/portfolio-example-01.jpg",
